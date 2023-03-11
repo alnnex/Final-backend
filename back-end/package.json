@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node index.js",
-    "build": "npm i"
+    "build": "npm install"
   },
   "author": "Alnnex Quiwag",
   "license": "ISC",
