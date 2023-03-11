@@ -4,7 +4,7 @@
   "description": "backend for socket-tutorial",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon back-end/index.js",
+    "start": "node index.js",
     "build": "npm i"
   },
   "author": "Alnnex Quiwag",
